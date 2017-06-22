@@ -13,8 +13,8 @@ Hiboutik Sync is a Wordpress plugin. It allows you to synchronize your Hiboutik 
 ## How does it work ?
 
 Each time a sale is closed from your Hiboutik account, il will call the callback url and send sale informations (HTTP POST request).
-Once Hiboutik Sync is installed on you website, it will respond to the url http://www.yourwebsite.com/hiboutik-woocommerce-sync and will try to catch avaible POST data.
-It will ask to Hiboutik the order's details from sale ID previously receved. What Hiboutik will respond by giving exact quantity of product sold.
+Once Hiboutik Sync is installed on you website, it will respond to the url http://www.yourwebsite.com/hiboutik-woocommerce-sync and will try to catch Hiboutik predefined POST data.
+It will ask to Hiboutik the order's details from sale ID previously received. What Hiboutik will respond by giving exact quantity of products sold.
 And finally, Hiboutik Sync will contact your WooCommerce API and reduce the stock of the given product.
 
-*The very important thing to know is that products match on Hiboutik products's barcode and WooCommerce products's UGS number (also called SKU number).*
+**The very important thing to know is that products match on Hiboutik products's barcode and WooCommerce products's UGS number (also called SKU number).**
