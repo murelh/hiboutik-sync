@@ -18,3 +18,10 @@ It will ask to Hiboutik the order's details from sale ID previously received. Wh
 And finally, Hiboutik Sync will contact your WooCommerce API and reduce the stock of the given product.
 
 **The very important thing to know is that products match on Hiboutik products's barcode and WooCommerce products's UGS number (also called SKU number).**
+
+## Task List
+[ ] Make a wordress setting page for the plugin
+
+## Questions
+
+Questions about this plugin can be asked at http://murelh.info/blog/hiboutik-sync
