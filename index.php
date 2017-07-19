@@ -42,5 +42,6 @@ function hiboutikSync($query) {
         } else {
             var_dump($orderDetail); // No sale with the given ID
         }
+      exit(); // this will prevent Wordpress to send a 404 error code
     }
 }
