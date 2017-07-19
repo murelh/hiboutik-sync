@@ -40,6 +40,7 @@ function hiboutikSync($query) {
                 }
             }
         } else {
+            echo 'La synchronisation n\'a pas pu être efectuée.<br>Données recu par Hiboutik Sync:<br>';
             var_dump($orderDetail); // No sale with the given ID
         }
       exit(); // this will prevent Wordpress to send a 404 error code
