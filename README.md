@@ -21,6 +21,7 @@ And finally, Hiboutik Sync will contact your WooCommerce API and reduce the stoc
 
 ## Task List
 [ ] Make a wordress setting page for the plugin
+[ ] Make hiboutik-sync able to check differences between two products with same barcode but with differents colors
 
 ## Questions
 
