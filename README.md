@@ -1,6 +1,9 @@
 # hiboutik-sync
 Hiboutik Sync is a Wordpress plugin. It allows you to synchronize your Hiboutik stock and WooCommerce website.
 
+### Project merged with Hiboutik's ! :)
+Please, follow this link : https://github.com/hiboutik/woocommerce-hiboutik ###
+
 ## How to use
 
 1. Activate WooCommerce API and save credentials
